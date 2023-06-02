@@ -1,0 +1,35 @@
+[ {
+  "baseItem" : {
+    "id" : "_O27-cAEtEe6mOPSAhz_VUA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_64adsAEwEe6mOPSAhz_VUA - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_z4mjMAFBEe6Hne_TLhmuDQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_64adsAEwEe6mOPSAhz_VUA - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64adsAEwEe6mOPSAhz_VUA - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64adsAEwEe6mOPSAhz_VUA - sales_order",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_64adsAEwEe6mOPSAhz_VUA - status_order",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
